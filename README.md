@@ -1,1 +1,1 @@
-Subway Surfers game using gestures of hand
+Subway Surfers game recognizing gestures of hand
